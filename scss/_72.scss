@@ -1,0 +1,71 @@
+@media only screen and (min-width: 72em) {	
+
+    .stage_wrap {
+        display: block;
+        margin: 0 auto;
+        position: relative;
+        max-width: 54em;
+    }
+
+	p {
+    	font-size: 1.3125em;
+    	line-height: 1.5em;
+    	margin-bottom: $margin;
+    }
+
+    .btn,
+    #mce-EMAIL {
+    	font-size: 1.25em;
+    	line-height: 1.4375em;
+    }
+
+    .btn,
+    #mc_embed_signup {
+    	margin-bottom: $margin;
+    }
+
+    .button {
+    	height: 28px;
+    	top: 6px;
+    	width: 40px;
+    }
+
+	#logo_redd {
+		margin: -8% auto 0;
+	}
+
+	blockquote {
+		display: block;
+		margin: $margin auto;
+		max-width: 70%;
+
+		p {
+    		font-size: 2.5em;
+    		line-height: 1.25em;
+    	}
+
+    	cite {
+    		font-size: .9375em;
+    		line-height: 1.5em;
+    	}
+	}
+
+	.logo_wrap {
+		padding: 3rem 5%;
+	}
+
+	#logo_redd_red {
+		max-width: 280px;
+	}
+
+	#logo_ecotrust {
+		max-width: 320px;
+	}
+
+    .social {
+
+    	p {
+    		font-size: 1.125em;
+    	}
+    }
+}
